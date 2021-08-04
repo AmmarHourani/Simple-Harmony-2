@@ -13,7 +13,7 @@ Trick is to include the file that includes the original Types/Classes as a "Reso
 
 Please star this repository if you found it useful
 
-hookmebyharmony.exe is the target process which loads the target DLL in which the target method/function "Add" is defined
+HOOKMYBYHARMONY.EXE is the target process which loads the target DLL in which the target method/function "Add" is defined
 
 HOOKMYBYHARMONYDLL.dll is the target DLL in which the target method/function "Add" is defined
 
